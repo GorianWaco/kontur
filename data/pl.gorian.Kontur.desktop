@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Kontur
+Comment=Kolory, obrys, czcionki i geometria okien GTK
+Exec=kontur
+Icon=pl.gorian.Kontur
+Terminal=false
+Type=Application
+Categories=Settings;DesktopSettings;GTK;
+Keywords=gtk;theme;kolory;obrys;czcionki;gnome;
+StartupNotify=true
